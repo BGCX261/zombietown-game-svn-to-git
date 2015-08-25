@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kynskavion", "RoeEngine2\RoeEngine2\Kynskavion.csproj", "{E71CE87C-B6E9-4306-9AEC-5BD6999EFB57}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KynskavionContent", "RoeEngine2\RoeEngine2Content\KynskavionContent.contentproj", "{340EC8D2-E432-4CD8-BBD3-403036D1A0D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoeEngine2", "RoeEngineLib\RoeEngine2.csproj", "{F7512E3C-6891-46F1-83B3-41B0C7F1C5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71CE87C-B6E9-4306-9AEC-5BD6999EFB57}.Debug|x86.ActiveCfg = Debug|x86
+		{E71CE87C-B6E9-4306-9AEC-5BD6999EFB57}.Debug|x86.Build.0 = Debug|x86
+		{E71CE87C-B6E9-4306-9AEC-5BD6999EFB57}.Release|x86.ActiveCfg = Release|x86
+		{E71CE87C-B6E9-4306-9AEC-5BD6999EFB57}.Release|x86.Build.0 = Release|x86
+		{340EC8D2-E432-4CD8-BBD3-403036D1A0D1}.Debug|x86.ActiveCfg = Debug|x86
+		{340EC8D2-E432-4CD8-BBD3-403036D1A0D1}.Release|x86.ActiveCfg = Release|x86
+		{F7512E3C-6891-46F1-83B3-41B0C7F1C5D9}.Debug|x86.ActiveCfg = Debug|x86
+		{F7512E3C-6891-46F1-83B3-41B0C7F1C5D9}.Debug|x86.Build.0 = Debug|x86
+		{F7512E3C-6891-46F1-83B3-41B0C7F1C5D9}.Release|x86.ActiveCfg = Release|x86
+		{F7512E3C-6891-46F1-83B3-41B0C7F1C5D9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
